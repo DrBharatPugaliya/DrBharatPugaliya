@@ -51,5 +51,5 @@ I'm currently completing my MSc in Bioinformatics at the University of Birmingha
 ## 📫 Contact
 
 - 📧 dr.bharatpugaliya@gmail.com
-- 📍 Dubai, UAE
-- 💼 Open to: Bioinformatics · Computational Biology · ML Engineering roles in UAE & globally
+- 📍 Earth
+- 💼 Open to: Bioinformatics · Computational Biology · ML Engineering roles
