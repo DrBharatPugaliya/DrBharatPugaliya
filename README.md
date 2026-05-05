@@ -2,7 +2,7 @@
 
 **Bioinformatics Researcher | Computational Genomics | ML for Life Sciences**
 
-MSc Bioinformatics @ University of Birmingham · PharmD · Ex-Uber · Based in Dubai, UAE
+MSc Bioinformatics @ University of Birmingham · PharmD · Ex-Uber ·
 
 ---
 
