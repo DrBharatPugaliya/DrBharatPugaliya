@@ -8,7 +8,7 @@ MSc Bioinformatics @ University of Birmingham · PharmD · Ex-Uber · Based in D
 
 ## 🧬 About Me
 
-I sit at the intersection of **clinical medicine, genomics, and machine learning**. My background as a pharmacist gives me deep domain knowledge of disease biology, which I now apply to building computational tools for genomic data analysis.
+I sit at the intersection of **clinical medicine, genomics, and machine learning**. My background as a doctor gives me deep domain knowledge of disease biology, which I now apply to building computational tools for genomic data analysis.
 
 I'm currently completing my MSc in Bioinformatics at the University of Birmingham, where I work on NGS data pipelines and RNA-Seq analysis on HPC clusters. I'm actively building expertise in **ML for biomedical data** — particularly applying deep learning to transcriptomics and gene expression datasets.
 
